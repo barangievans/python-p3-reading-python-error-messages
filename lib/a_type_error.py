@@ -1,3 +1,2 @@
-#!/usr/bin/env python3
-
-wrong_type = 'abc' + 123
+number = 5
+print("The number is: " + str(number))
